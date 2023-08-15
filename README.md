@@ -1,6 +1,6 @@
 # PMW3360 breakout board
 
-This repository contains PCB design files for an optical sensor PIXART PMW3360 and a breakout board, a company popular for self-made keyboards and self-made mice.
+This repository contains PCB design files for an optical sensor PIXART PMW3360 and a breakout board.
 
 This board can be used for making your DIY keyboard with trackball, mouse, or trackball.
 This board is equipped with a regulator, so either 5V or 3.3V logic can be used.
