@@ -7,11 +7,12 @@
 
 センサーチップはSENSOR側にあり、部品が実装されている側はLENS側です。センサーとピンヘッダはご自身でハンダ付けする必要があります。
 
-基板サイズは28x32mm、M2ネジ用の取り付け穴はφ2.3mm、24x28mmです。
-<br>
-寸法図![](pmw3360dimension_ja.png)
+基板サイズは28x32mm、M2ネジ用の取り付け穴はφ2.3mm、24x28mmです。<br>
 
-Table 1. ピン番号
+### 寸法図
+![](pmw3360dimension_ja.png)
+
+### ピン番号
 |1|2|3|4|5|6|7|8|
 |-|-|-|-|-|-|-|-|
 |CS|MISO|MOSI|SCLK|MOTION|N/C|VCC|GND|
@@ -33,16 +34,16 @@ Table 1. ピン番号
 
 ### 手順
 1.SENSOR側の面にセンサーを搭載する
-![](img/mount1.png). 
+![](img/mount1.png)  
 
 2.LENS側の面をハンダづけする
-![](img/mount2.png). 
+![](img/mount2.png) 
 
 3.LENSのフィルムをピンセットで剥がす
-![](img/mount3.png). 
+![](img/mount3.png)  
 
 4.ピンヘッダをハンダづけして完了
-![](img/mount4.png). 
+![](img/mount4.png)  
 
 5.レンズ搭載
-![](img/top_view.png)
+![](img/top_view.png)  
