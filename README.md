@@ -9,4 +9,4 @@ The sensor chip is on the SENSOR side, and the side where the components are mou
 
 The board size is 28x32mm and the mounting holes are 24x28mm for M2 screws.
 
-![a render of the PCB](PMW3360-breakout-render.png)
+![a render of the PCB](pmw3360dimension_en.png)
