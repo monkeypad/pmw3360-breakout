@@ -1,12 +1,38 @@
 # PMW3360 breakout board
 
-This repository contains PCB design files for an optical sensor PIXART PMW3360 and a breakout board.
+このリポジトリには、PIXART社製のPMW3360DM-T2QU光学式マウスセンサー用のBreakoutボードのデザインファイルが含まれています。
 
-This board can be used for making your DIY keyboard with trackball, mouse, or trackball.
-This board is equipped with a regulator, so either 5V or 3.3V logic can be used.
+このキットは、トラックボール付きキーボード、マウス、トラックボールをDIYで自作するために使用できます。
+レギュレーターが搭載されているので、5Vでも3.3Vでも使えます。
 
-The sensor chip is on the SENSOR side, and the side where the components are mounted is on the LENS side. Customers need to solder the sensor and pin headers.
+センサーチップはSENSOR側にあり、部品が実装されている側はLENS側です。センサーとピンヘッダはご自身でハンダ付けする必要があります。
 
-The board size is 28x32mm and the mounting holes are 24x28mm for M2 screws.
+基板サイズは28x32mmで、M2ネジ用の取り付け穴は24x28mmです。
 
-![a render of the PCB](pmw3360dimension_en.png)
+### キットに含まれるもの
+・PMW3360DM-T2QU　1個
+・LM19-LSI（LENS）1個
+・ブレイクアウトボード　1個
+
+### 別売ユニット
+・トラックボール
+・ピンヘッダ
+
+トラックボールキーボード、マウスを設計される際はクリアランスに注意してください。詳細はメーカーのDatasheetをご確認ください。
+- [Datasheet](https://d3s5r33r268y59.cloudfront.net/datasheets/9604/2017-05-07-18-19-11/PMS0058-PMW3360DM-T2QU-DS-R1.50-26092016._20161202173741.pdf)
+
+基板![](pmw3360dimension_ja.png)
+
+1.SENSOR側の面にセンサーを搭載する
+![](img/mount1.png)
+2.LENS側の面をハンダづけする
+![](img/mount2.png)
+3.LENSのフィルムをピンセットで剥がす
+![](img/mount3.png)
+4.ピンヘッダをハンダづけして完了
+![](img/mount4.png)
+
+Table 1. ピン番号
+|1|2|3|4|5|6|7|8|
+|-|-|-|-|-|-|-|-|
+|CS|MISO|MOSI|SCLK|MOTION|N/C|VCC|GND|
