@@ -8,10 +8,8 @@ The sensor chip is located on the SENSOR side, while the side with implemented c
 
 The board dimensions are 28x32mm, with mounting holes for M2 screws measuring φ2.3mm. The overall dimensions of the board are 24x28mm.
 
-![a render of the PCB](pmw3360dimension_en.png)
-
 ### Dimensions
-![](pmw3360dimension_ja.jpeg)
+![](pmw3360dimension_en.jpeg)
 
 ### Pin Configuration
 |1|2|3|4|5|6|7|8|
