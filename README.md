@@ -35,16 +35,16 @@ QMK等のソフトウェアでSPI通信のピン番号を設定することで�
 
 ### 手順
 1.SENSOR側の面にセンサーを搭載する
-![](img/mount1.png)  
+![](img/monkeypad_6_02.jpeg)  
 
 2.LENS側の面をハンダづけする
-![](img/mount2.png) 
+![](img/monkeypad_6_03.jpeg) 
 
 3.LENSのフィルムをピンセットで剥がす
-![](img/mount3.png)  
+![](img/monkeypad_6_04.jpeg)  
 
 4.ピンヘッダをハンダづけして完了
-![](img/mount4.png)  
+![](img/monkeypad_6_05.jpeg)  
 
 5.レンズ搭載
-![](img/top_view.png)  
+![](img/monkeypad_6_06.jpeg)  
