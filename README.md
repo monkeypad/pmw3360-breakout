@@ -1,3 +1,5 @@
+## English build guide is here [English](README_en.md)
+
 # PMW3360 breakout board
 
 このリポジトリには、PIXART社製のPMW3360DM-T2QU光学式マウスセンサー用のBreakoutボードのデザインファイルが含まれています。
@@ -48,6 +50,8 @@ QMK等のソフトウェアでSPI通信のピン番号を設定することで�
 ![](img/monkeypad_6_04.jpeg)  
 
 4.ピンヘッダをハンダづけして完了
+
+写真は、ピンヘッダをセンサー側に取り付けています。
 
 ![](img/monkeypad_6_05.jpeg)  
 
